@@ -21,7 +21,7 @@ Python and automation process for a small single-batch task
 2.	As receiver the event receive transfer 0 address happen by one of these causes. </br>
     a.	By the transmitter message and incorrect implementation of exception error codes. </br>
     b.	By unbalance circuits or un-recognized patterns. </br>
-    c.	By incorrect matrix value registered, firmware and etc. </br>
+    c.	***By incorrect matrix value registered, firmware and etc.*** </br>
 
 
 <p align="center" width="100%">
