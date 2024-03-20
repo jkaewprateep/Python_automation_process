@@ -15,13 +15,13 @@ Python and automation process for a small single-batch task
 
 * 🐑💬 ➰ Possibility this issues is foudn on PII and communication devices.
 1.	As transmitter the event transfer 0 address happen by one of these causes. </br>
-    a.	There is no correct encryption result return. </br>
-    b.	There is no address and pre-requisites encryption variables example status, timestamp, from address and value. </br>
+    a.	There is no correct encryption result return. <img width="3%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/idx_03.png"></br>
+    b.	There is no address and pre-requisites encryption variables example status, timestamp, from address and value. <img width="3%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/idx_02.png"></br>
     c.	Some process cause to release the transmission before sufficient process time. </br>
 2.	As receiver the event receive transfer 0 address happen by one of these causes. </br>
     a.	By the transmitter message and incorrect implementation of exception error codes. </br>
     b.	By unbalance circuits or un-recognized patterns. </br>
-    c.	***By incorrect matrix value registered, firmware and etc.*** </br>
+    c.	***By incorrect matrix value registered, firmware and etc.*** <img width="3%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/idx_01.png"></br>
 
 
 <p align="center" width="100%">
