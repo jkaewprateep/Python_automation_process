@@ -113,6 +113,22 @@ def task(event: Event, id: int) -> None:
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/11.png">
 </p>
+</br>
+
+### Scenarios
+
+| Scenario | Description |
+| ------------- | ------------- |
+| Local validated messages | Event message with communication rates ratios setting with delays time response for each node aim performance communication |
+| Central validate messages | Event message with communication rates ratios setting for valid messages, action and time response |
+| Summarize statistics messages | Valid transactions are summarized and records for final process of communication and statistics purpose same as TCP/IP communication message |
+| Error messages | Error message with error op exceptions codes are record and provide correct responsive responses. |
+| Notification messages | Notification message are from statistics matrixes monitor by system and can be write into local database record for historical report |
+| Error correction messages | Among group(s) of selective nodes they can have own statistics and error correction. |
+| Backup and restore messages | From summary record for verbose log need to setting and performance need to be evaluation or short time period activation can perform on the basic configuration settings |
+</br>
+
+...
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
