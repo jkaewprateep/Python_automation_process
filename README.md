@@ -31,10 +31,15 @@ Attack scenarios
 
 - - -
 
+### Communication Protocols
+There are multiple blocks of package in communication message continue with different messages, weights and values assigned to the message store on local and communication.  </br>
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/02.png">
 </p>
-Ethereum MainNet ref [0]
+Ethereum MainNet ref [0] </br>
+</br>
+In secured message encryption with different weights generated from each node represents from client or terminal and values. Node perform encryption and target node in communication can decrypt of the communication messages by their generated values and weights. In distribution values of weights and challenge can create multiple of secrete keys with target precision values and matrix arrays sizes they can combined of weight to decrypt and verification of its results call validation message. </br>
 
 - - -
 
