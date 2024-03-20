@@ -143,6 +143,9 @@ def task(event: Event, id: int) -> None:
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/13.png">
 </p>
 
+🦤💬 I give one assignment for a student about create a custom layer normmax and softmax. </br>
+🥺💬 I answered him 5 years ago, I am looking for a paid job. </br>
+
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
 Ref [1]: https://www.researchgate.net/publication/342554024/figure/fig2/AS:908103696535552@1593520201108/Schematic-of-the-Ethereum-transaction-network-Each-node-represents-an-Ethereum.png </br>
