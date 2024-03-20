@@ -84,7 +84,9 @@ Peer-To-Peer Networking and Applications ref [3]
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/09.png">
 </p>
 </br>
+
 ### Python codes task example
+
 ```
 def task(event: Event, id: int) -> None:
     print(f'Thread {id} started. Wait for the signal....')
