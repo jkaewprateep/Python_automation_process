@@ -115,7 +115,7 @@ def task(event: Event, id: int) -> None:
 </p>
 </br>
 
-### Scenarios
+## Scenarios
 
 | Scenario | Description |
 | ------------- | ------------- |
@@ -126,6 +126,13 @@ def task(event: Event, id: int) -> None:
 | Notification messages | Notification message are from statistics matrixes monitor by system and can be write into local database record for historical report |
 | Error correction messages | Among group(s) of selective nodes they can have own statistics and error correction. |
 | Backup and restore messages | From summary record for verbose log need to setting and performance need to be evaluation or short time period activation can perform on the basic configuration settings |
+</br>
+
+## Machine learning with time events problem 
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/12.png">
+</p>
 </br>
 
 ...
