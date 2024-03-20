@@ -59,6 +59,8 @@ Schematic of the Ethereum transaction network ref [1] </br>
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/04.png">
 </p>
 Peer-to-Peer Networking and Applications ref [3] </br>
+</br>
+🐑💬 ➰ There are communication node verification and local node verification before communication message with security requirements as simple secured messages communications. The negotiation process is similar to the state message communication with multiple steps of request and states feedback responses. In self-verification the transmission node can verify of the message before transmit or verify software settings and versions for communication program standards. </br>
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
