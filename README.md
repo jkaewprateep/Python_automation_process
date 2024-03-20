@@ -69,7 +69,17 @@ Peer-to-Peer networking and Applications ref [3] </br>
 </br>
 🐑💬 ➰ During the negotiation time communication from source node reach to the target node as final step transmission from the source node will be validate at the target node and select of available block for communication message. The all answer from all nodes is not required to be the same but the available block will be message to communicate when each node continue work on their processing weight and value and responses once there is message event trigger the same as multiple agents AI response to environment simulation. </br>
 🐑💬 ➰ In distribution process system the central node or response node not only record of transaction but also perform tasks or actions results from communication and feedback to each node when they are working on their task same as rewards of results if consider as communication in distribution process and no-feedback communication record sample information record. </br>
-
+</br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/07.png">
+</p>
+Peer-to-peer Networking and Applications ref [3]
+</br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/08.png">
+</p>
+Peer-To-Peer Networking and Applications ref [3]
+</br>
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
