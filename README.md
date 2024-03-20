@@ -144,7 +144,7 @@ def task(event: Event, id: int) -> None:
 </p>
 
 🦤💬 I give one assignment for a student about create a custom layer normmax and softmax. </br>
-🥺💬 I answered him 5 years ago, I am looking for a paid job. </br>
+🥺💬 I answered him 5 years ago, I am looking for a paid job. Now the school directory links is broken. </br>
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
