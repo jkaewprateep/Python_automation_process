@@ -46,7 +46,15 @@ In secured message encryption with different weights generated from each node re
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/03.png">
 </p>
-Schematic of the Ethereum transaction network ref [1]
+Schematic of the Ethereum transaction network ref [1] </br>
+
+### Node message transferring 
+Node message communication is serialized of continue message with different weights, key and value and they can validate of the transmitting node message by negotiate method.
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/04.png">
+</p>
+Peer-to-Peer Networking and Applications ref [3] </br>
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
