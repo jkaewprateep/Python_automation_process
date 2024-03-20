@@ -94,6 +94,24 @@ def task(event: Event, id: int) -> None:
     print(f'Receive signal. The thread {id} was completed.')
 ```
 
+## Objectives
+
+| Objective | Response | Notes |
+| ------------- | ------------- | ------------- |
+| Notification when transfer event happens with in 2 minutes | Each node represents self-validation and organize validation and notify for the transfer event | Each node notify messages event will create dramatic of message bandwidths generate but limited by transfer rates |
+| Resilient – No downtime | In registered intervals from negotiation message all node will re-negotiate or create new negotiate communication required or hits target rates | The last call of communication is validated of the values in transactions in the central node or the provider |
+| Cost-effective | Implementing codes are not complex and message event create after task’s state changed | In IoT communication task distribution or individual target device is ability to response of performance |
+| Can easily be modified to add more token transfer monitorings (e.g. to other addresses, or monitor other token addresses) | Secured communication algorithm has many levels of negotiation for secured message with high contrast secrete key algorithm and symmetric communication secured message algorithms | Depends on communication rates for fast response symmetric keys can secured message communication fast with timestamps and required fields with natural time expired |
+| Symmetric key algorithm support by default of each node communication for negotiation messages and fast communication | For default protection level secured symmetric key are installed for each node differently and they can use for negotiation message or fast communication | Not only power calculation can be decrypted of the transferring message because expiry message time and hardware or application ID. |
+| Asymmetric key algorithm support by default and promote of new key from current key or total new key when required | For message negotiation a new key communication selected from existing key or combined key from the negotiation process that is because of algorithm allowed concatenate keys | Not only power calculation can be decrypted of the transferring message because expiry message time and hardware or application ID. |
+| Notification method with target notification database support of transaction and delays communication response | Allowed for caches time communication messages and multi-nodes challenge with local database for filtered transactions for validation. | At the final steps of communication need report, database records and monitoring for notification because will notify by the acceptable rates |
+| Communication results can trace of errors and distribution rates | Summary statistics for distribution communications and errors will be records and stored at transaction database at the final state | At the final steps after the communication concluded summarized and errors are record same as TCP/IP communication in local networks area |
+| Database communication can support of headless encryption communication for statistics records communication with less of secured algorithm applied | Multiple states message communication with number and target fields from the requester can transmitted with symmetric or none encryption for speed and safe of calculation power | There are many of database support headless secured communication and implementation with the same format possible in database communication scenario |
+| Neighborhood devices can have different of communication pattern | Multiple states message communication response by the request format from the verified requester | There are services and publisher need to be notified with preferred format and requirements before receive response that is another secure level of the solution |
+| Support of node priority by performance and proficiency Backup and restore support by remote script execution | There are multiple of weight and value can create formula for challenge but default work distribution algorithm is message rates Support by default | Workload distribution algorithms or individual initiate events from each node All node has the same code |
+
+
+
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
 Ref [1]: https://www.researchgate.net/publication/342554024/figure/fig2/AS:908103696535552@1593520201108/Schematic-of-the-Ethereum-transaction-network-Each-node-represents-an-Ethereum.png </br>
