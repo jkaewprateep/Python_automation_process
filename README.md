@@ -27,3 +27,9 @@ Python and automation process for a small single-batch task
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/01.png">
 </p>
+
+## References
+Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
+Ref [1]: https://www.researchgate.net/publication/342554024/figure/fig2/AS:908103696535552@1593520201108/Schematic-of-the-Ethereum-transaction-network-Each-node-represents-an-Ethereum.png </br>
+Ref [2]: https://www.researchgate.net/figure/The-private-blockchain-structure-in-this-work_fig10_351526428  </br>
+Ref [3]: https://www.pythontutorial.net/python-concurrency/python-threading-event/  </br>
