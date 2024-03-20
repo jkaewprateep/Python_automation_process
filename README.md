@@ -27,6 +27,21 @@ Python and automation process for a small single-batch task
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/01.png">
 </p>
+Attack scenarios
+
+- - -
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/02.png">
+</p>
+Ethereum MainNet ref [0]
+
+- - -
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/02.png">
+</p>
+Schematic of the Ethereum transaction network ref [1]
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
