@@ -13,6 +13,17 @@ Python and automation process for a small single-batch task
 🦤💬 In the design of a network firewall controls the network input/output or bandwidth with the ability to filter and basically analyze the network packets for source or website original networks sources where DNS and load balancing are placed in the organization's internal zone, the communication message may process for communication, partial because of they are inside networks or not process. One or multiple of the messages under a hundred messages are handled per minute and cannot create a delay in the process as application exceptions, network acceptions, the stamina of the server, and protection of the network firewall. One way is the attacker tries to expand the effect from lower hundreds of messages by the server they are required in the communication, DNS directory name services, and permission acquiring services, and of course internal solution communication needs to be verified by vendors responsible for the system design. </br>
 * 🐣💬 In some systems zero address communication or zero network address header or incorrect format request and response messages have the same effects because the request messages contain query strings to process and network routers or system monitoring cannot determine. </br>
 
+* 🐑💬 ➰ Possibility this issues is foudn on PII and communication devices.
+1.	As transmitter the event transfer 0 address happen by one of these causes. </br>
+    a.	There is no correct encryption result return. </br>
+    b.	There is no address and pre-requisites encryption variables example status, timestamp, from address and value. </br>
+    c.	Some process cause to release the transmission before sufficient process time. </br>
+2.	As receiver the event receive transfer 0 address happen by one of these causes. </br>
+    a.	By the transmitter message and incorrect implementation of exception error codes. </br>
+    b.	By unbalance circuits or un-recognized patterns. </br>
+    c.	By incorrect matrix value registered, firmware and etc. </br>
+
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/01.png">
 </p>
