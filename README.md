@@ -61,6 +61,15 @@ Schematic of the Ethereum transaction network ref [1] </br>
 Peer-to-Peer Networking and Applications ref [3] </br>
 </br>
 🐑💬 ➰ There are communication node verification and local node verification before communication message with security requirements as simple secured messages communications. The negotiation process is similar to the state message communication with multiple steps of request and states feedback responses. In self-verification the transmission node can verify of the message before transmit or verify software settings and versions for communication program standards. </br>
+</br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/05.png">
+</p>
+Peer-to-Peer networking and Applications ref [3] </br>
+</br>
+🐑💬 ➰ During the negotiation time communication from source node reach to the target node as final step transmission from the source node will be validate at the target node and select of available block for communication message. The all answer from all nodes is not required to be the same but the available block will be message to communicate when each node continue work on their processing weight and value and responses once there is message event trigger the same as multiple agents AI response to environment simulation. </br>
+🐑💬 ➰ In distribution process system the central node or response node not only record of transaction but also perform tasks or actions results from communication and feedback to each node when they are working on their task same as rewards of results if consider as communication in distribution process and no-feedback communication record sample information record. </br>
+
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
