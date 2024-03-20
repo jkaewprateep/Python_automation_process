@@ -80,6 +80,17 @@ Peer-to-peer Networking and Applications ref [3]
 </p>
 Peer-To-Peer Networking and Applications ref [3]
 </br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/09.png">
+</p>
+</br>
+### Python codes task example
+```
+def task(event: Event, id: int) -> None:
+    print(f'Thread {id} started. Wait for the signal....')
+    event.wait()
+    print(f'Receive signal. The thread {id} was completed.')
+```
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
