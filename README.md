@@ -109,8 +109,10 @@ def task(event: Event, id: int) -> None:
 | Database communication can support of headless encryption communication for statistics records communication with less of secured algorithm applied | Multiple states message communication with number and target fields from the requester can transmitted with symmetric or none encryption for speed and safe of calculation power | There are many of database support headless secured communication and implementation with the same format possible in database communication scenario |
 | Neighborhood devices can have different of communication pattern | Multiple states message communication response by the request format from the verified requester | There are services and publisher need to be notified with preferred format and requirements before receive response that is another secure level of the solution |
 | Support of node priority by performance and proficiency Backup and restore support by remote script execution | There are multiple of weight and value can create formula for challenge but default work distribution algorithm is message rates Support by default | Workload distribution algorithms or individual initiate events from each node All node has the same code |
-
-
+</br>
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/11.png">
+</p>
 
 ## References
 Ref [0]: https://www.researchgate.net/profile/Peter-Robinson-44/publication/340826927/figure/fig1/AS:882965378768896@1587526759335/Transferring-Ether-between-Ethereum-MainNet-and-a-Private-Blockchain.ppm  </br>
