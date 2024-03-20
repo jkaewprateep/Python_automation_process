@@ -32,16 +32,20 @@ Attack scenarios
 - - -
 
 ### Communication Protocols
-There are multiple blocks of package in communication message continue with different messages, weights and values assigned to the message store on local and communication.  </br>
+🐑💬 ➰ There are multiple blocks of package in communication message continue with different messages, weights and values assigned to the message store on local and communication.  </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/02.png">
 </p>
 Ethereum MainNet ref [0] </br>
 </br>
-In secured message encryption with different weights generated from each node represents from client or terminal and values. Node perform encryption and target node in communication can decrypt of the communication messages by their generated values and weights. In distribution values of weights and challenge can create multiple of secrete keys with target precision values and matrix arrays sizes they can combined of weight to decrypt and verification of its results call validation message. </br>
+👧💬 🎈 In secured message encryption with different weights generated from each node represents from client or terminal and values. Node perform encryption and target node in communication can decrypt of the communication messages by their generated values and weights. In distribution values of weights and challenge can create multiple of secrete keys with target precision values and matrix arrays sizes they can combined of weight to decrypt and verification of its results call validation message. </br>
 
 - - -
+
+### Networks weights communication
+
+🦭💬 In network weights communication it requires only summing weight to verify but it requires keys and authorization for decrypted messages and the original message and it requires weights, priority, and keys to update the message to the original message, the concept is everyone can request for communication and the selector selected node to communicate, the communication nodes are generated message with their weight and priority order in the central node, selector or selection. These cumulative messages will be filtered and organized from multiple of selected nodes performing tasks and verified with the trial message by summing up or additional methods before synchronizing and permitted to write to original message. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/03.png">
@@ -49,7 +53,7 @@ In secured message encryption with different weights generated from each node re
 Schematic of the Ethereum transaction network ref [1] </br>
 
 ### Node message transferring 
-Node message communication is serialized of continue message with different weights, key and value and they can validate of the transmitting node message by negotiate method.
+🐑💬 ➰ Node message communication is serialized of continue message with different weights, keys, and values and they can validate the transmitting node message by negotiate method.
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/Python_automation_process/blob/main/04.png">
